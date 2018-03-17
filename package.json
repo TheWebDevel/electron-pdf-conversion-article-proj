@@ -1,0 +1,13 @@
+{
+  "name": "electron-pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Sathish",
+  "devDependencies": {
+    "electron": "~1.8.2"
+  }
+}
